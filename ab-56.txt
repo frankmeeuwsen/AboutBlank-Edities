@@ -1,0 +1,401 @@
+============
+
+ABOUT:BLANK
+
+============
+
+http://www.aboutblank.nl
+
+Een maandelijkse e-zine door webloggers, voor webloggers!
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Jaargang 5 - Editie 56 - mei 2007
+
+Inhoud:
+
+0 - Intro
+
+1 - Interview met Maaike van tussenons.nl
+
+2 - Rene's Rotten Review (11)
+
+3 - Conferentie 2.0
+
+4 - (Open web)standaarden zijn heilig en de validator ook
+
+5 - Oh jee, mijn collega's kennen mijn weblog!
+
+6 - ABOUT:GIRLS (3)
+
+7 - Mogelijk gesprek tussen Virginie en Rosalie na het winnen van een
+bloggie
+
+8 - Cursus Lijfloggen deel 40
+
+9 - The Hot Stewards - Cover Up
+
+10 - Wie doet wat in het vaderlandse weblogland?
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+0 - Intro
+
+Lekker, het is warm! Dit zeg ik zonder morren, want wij
+
+Nederlanders willen nog wel eens gaan klagen bij danwel te
+
+warm, danwel te koud weer. Hier bij about:blank doen we dat
+
+niet.
+
+Want we zijn blij met de nieuwe about:blank! Een vette volle
+
+editie vol. Te veel om op te noemen. Dat wordt scrollen dus.
+
+Deze maand ook: Win kaarten voor Blognomics.
+
+Klaag niet, lees about:blank!
+
+Altijd te bereiken op: post@aboutblank.nl
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Header en wallpaper
+
+Rob van Barneveld leeft al 21 jaar en tekent werkdagelijks
+
+een nieuw strookje voor zijn website, http://www.robwiltekenen.nl.
+
+Kenmerkend voor zijn stijl is de enorme aanwezigheid van
+
+roodtinten. Met zijn strookjes, onder de noemer Rood Gras,
+
+probeert hij in strip te vangen wat nog niet in strip
+
+gevangen is. Naast een paprikachipsbal, roltrap-aapje en
+
+stoepdeken zal Rob ooit ook heel serieuze dingen gaan
+
+tekenen, zoals een vrouw met een trieste kindertijd en een
+
+deur die maar niet open wil. Maar tot het zover is tekent
+
+hij graag nog even onserieuze stripjes. Eventjes maar, hoor.
+
+Check http://www.aboutblank voor zijn header en wallpaper
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+1 - Interview met Maaike van tussenons.nl
+
+Maaike (http://www.tussenons.nl) schrijft vanaf 2004 op een
+
+weblog. Een vrolijke meid, staat positief in het leven. Maar
+
+juist zij kreeg de test om haar positivitieit tot het uiterste
+
+te testen. Een openhartig interview.
+
+"Kanker is (helaas) nog veel te vaak een taboe en dat vind ik
+
+niet nodig."
+
+Lees verder: http://www.aboutblank.nl/pivot/entry.php?id=2328
+
+(K)
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+2 - Rene's Rotten Review (11)
+
+Een duffe dobermann ligt uitgeblust in het gras. Op schijnveilige
+
+afstand zoomt je camera in. Het is en blijft immers een
+
+gevaarlijk ras. Ritsratsklik, weer een post gereed.
+
+De fluoriserende wc-bril smeek je bilpartij om plaats te nemen.
+
+Je voldoet aan het indringende verzoek, trekt door en hebt je
+
+mobielentevensfototoestel in de aanslag. Ritsratsklik,
+
+weer een post gereed.
+
+Lees verder voor 2 reviews van (nog) onbekende fotologs (flogs).
+
+Lees verder: http://www.aboutblank.nl/pivot/entry.php?id=2296
+
+(RB)
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+3 - Conferentie 2.0
+
+Het wordt weer zweten geblazen voor de semi-professionele bloggers,
+
+blogvolgers en andere web 2.0 wannabes. Want het
+
+conferentieseizoen is weer begonnen. En dat betekent met z'n
+
+allen in een zaaltje zitten (vaak zonder wifi) met zo'n malle
+
+badge om je nek. Naar veel salespitches luisteren van bedrijven
+
+waar je nog nooit van hebt gehoord. In de pauze niet elkaar
+
+aankijken, maar eerst op borsthoogte naar de bedrijfsnaam
+
+spieden om te zien of het boeiend is om contact te zoeken
+
+(vooral voor vrouwen een nare ervaring) en als klap op de
+
+vuurpijl na afloop een tas met brochures, pennen, CD's en
+
+stressballen meenemen. Altijd handig om in de trein te laten
+
+liggen.
+
+Maar het kan ook anders. Origineler, verrassender. In de
+
+agenda van deze maand een overzicht van de "andere"
+
+conferenties. Plus de kans om drie kaarten te winnen voor
+
+conferenties!
+
+Lees verder: http://www.aboutblank.nl/pivot/entry.php?id=2311
+
+(FM)
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+4 - (Open web)standaarden zijn heilig en de validator ook
+
+Deze maand een gastbijdrage van Ruud Steltenpool. Validator
+
+Fanboy noemt hij zichzelf. En niet onterecht. Hij wist ons
+
+te wijzen op het feit dat bij de laatste Dutch Bloggies het
+
+gros van de genomineerden flink wat HTML fouten in de code
+
+hebben staan. En dat terwijl toegankelijkheid juist een
+
+belangrijker onderdeel wordt op internet. Daarom deze maand
+
+een uiteenzetting van het hoe en waarom van webstandaarden
+
+en hoe je een validator kunt gebruiken. Ruud schrijft zelf
+
+op Twente Open Source & Standaarden en is beheerder van
+
+http://svg.startpagina.nl
+
+Lees verder: http://www.aboutblank.nl/pivot/entry.php?id=2312
+
+(Ruud Steltenpool)
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+5 - Oh jee, mijn collega's kennen mijn weblog!
+
+Natuurlijk probeer je online zo veel mogelijk lezers te
+
+verzamelen en als die ook nog eens af en toe een leuke reactie
+
+geven op je schrijfsels, dan heb je helemaal eer van je werk.
+
+Maar soms heb je ook mensen die je liever niet vertelt dat je
+
+leven zo op de digitale snelweg ligt. Toch? Of maakt jou dat
+
+niet uit?
+
+Hoi Michiel,
+
+Een nieuwe baan hoorde ik? Gefeliciteerd! Het zette me aan het
+
+denken. Vertel je je nieuwe werkplek dat je een weblog hebt?
+
+Nu geloof ik dat jouw nieuwe collega zelf ook een weblog heeft,
+
+dus bij jou zal het geen probleem zijn. Maar wat als je op een
+
+werkplek komt waarvan je niet weet of collega's loggen, log's
+
+lezen of gewoon niet weten wat de term loggen inhoudt?
+
+Lees verder: http://www.aboutblank.nl/pivot/entry.php?id=2318
+
+(MH + AU)
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+6 - ABOUT:GIRLS (3)
+
+Stelling: auto's zijn voor mannen.
+
+Ik was een aantal weken geleden bij de AutoRai in Amsterdam.
+
+Vantevoren had ik er geen enkele voorstelling van, behalve dat
+
+ik naar allerlei auto's ging kijken. Toen ik eenmaal m'n
+
+kaartje gekocht had en eens om me heen keek spotte ik bijna
+
+geen vrouwen. Terwijl ik er vanuit ging dat er ook best wel
+
+vrouwen bestaan die van mooie, gestroomlijnde auto's houden.
+
+Lees verder: http://www.aboutblank.nl/pivot/entry.php?id=2329
+
+(K)
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+7 - Mogelijk gesprek tussen Virginie en Rosalie na het winnen van een
+Bloggie
+
+Mogelijk gesprek tussen Virginie en Rosalie van
+http://www.nuitblanche.nl:
+
+Virginie: Waarde zuster, heeft u ook zo slecht geslapen vannacht?
+
+Rosalie: Nee, hoezo? Was er iets dan?
+
+Virginie: Nou, ik zit helemaal onder de blauwe plekken, ik
+
+rolde vannacht ieder uur mijn bed uit van het lachen.
+
+Rosalie: Van het lachen? Wat was er dan?
+
+Lees verder: http://www.aboutblank.nl/pivot/entry.php?id=2319
+
+(AU)
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+8 - Cursus Lijfloggen deel 40
+
+Fluit!
+
+Hoewel ik het verafschuwde dat we, onderweg naar onze Zwitserse
+
+vakantiebestemming, het nummer gedurende die twee- tot
+
+driedaagse reis een twintigtal keer moesten aanhoren, weet ik
+
+dat als het nu gedraaid zou worden, ik ijverig zou proberen
+
+het mee te fluiten, alle trillingen en wendingen zorgvuldig
+
+volgend en net zo fanatiek met mijn duim, wijs- en middelvinger
+
+mee zou tikken als dat mijn vader dat op het stuur van de auto
+
+deed.
+
+Lees verder: http://www.aboutblank.nl/pivot/entry.php?id=2320
+
+(TZ)
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+9 - The Hot Stewards - Cover Up
+
+D'r zijn van die nummers, die moet je niet willen coveren.
+
+Hoe goed je ook bent - of erger: hoe goed jij jezelf vindt -
+
+als artiest, daar blijf je met je poten van af. "Boys of
+
+Summer (http://www.youtube.com/watch?v=OPLfPHap_j0) is zo'n
+
+nummer. Dat cover je niet. Dat nummer hoort bij Don Henley
+
+(http://www.donhenley.com), hij zingt dat en verder niemand.
+
+Geen discussie over mogelijk.
+
+Lees verder: http://www.aboutblank.nl/pivot/entry.php?id=2327
+
+(FU)
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+10 - Wie doet wat in het vaderlandse weblogland?
+
+Wieblogt (http://www.Wieblogt.nl) is een nieuwe zoekmachine
+
+die je de wie, wat, waar en wanneer van de Nederlandse
+
+blogosfeer toont. Ze zijn nu nog in private beta maar met
+
+dank aan Mark Rosbergen en Dirk Gietelink, twee van de
+
+ontwikkelaars, hebben we een kijkje in de keuken mogen nemen
+
+van deze "Nederlandse Technorati". Wieblogt.nl is een
+
+initiatief van BuzzBasics (http://www.buzzbasics.com),
+
+bureau voor online mediareputatie. Zij helpen bedrijven en
+
+merken om online te volgen wat en hoe er over ze wordt
+
+geschreven. Door hun kennis en ervaring van zoekmachines
+
+en indexeringssystemen dachten de ontwikkelaars dat het een
+
+eitje zou zijn om ook de Nederlandse blogosfeer in kaart
+
+te brengen. Een jaar later zijn ze wat minder naief geworden
+
+maar ook een hele ervaring rijker. Na aanvankelijk in november
+
+2006 live te willen gaan is besloten om nog te wachten en de
+
+dienst verder uit te werken. Wieblogt.nl is met recht een
+
+volwaardige weblogzoekmachine te noemen die menig ander
+
+initiatief in de schaduw zal laten staan. De redenen?
+
+Een klein overzicht van de mogelijkheden.
+
+Lees verder: http://www.aboutblank.nl/pivot/entry.php?id=2324
+
+(FM)
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+about:blank wordt gemaakt door:
+
+Aukje - http://www.aukje.net (AU)
+
+Bakkel - http://www.bakkel.com (linkdump)
+
+David - http://www.davidrietveld.nl (DR)
+
+File Under - http://www.fileunder.nl (FU)
+
+Frank - http://www.punkey.com (denktank)
+
+Karin - http://www.met-k.com (K)
+
+Michiel - http://www.badlog.nl (MH)
+
+Peter - http://www.shapeamp.nl (design)
+
+Reinier - http://www.altijdfijn.com (RL)
+
+René - http://www.bloggerdesvaderlands.nl (RB)
+
+Remco - http://www.aboutblank.nl (RS)
+
+Ton - http://www.zijperspace.nl (TZ)
+
+About:blank wordt prima gehost door http://www.pivothosting.net
+
