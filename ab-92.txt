@@ -1,0 +1,160 @@
+http://www.aboutblank.nl
+Een maandelijkse e-zine door webloggers, voor webloggers!
+
+Jaargang 8 - Editie 92 - Juli 2010
+
+Inhoud:
+
+00 - Intro
+01 - Header en wallpaper #92
+02 - WWWW óf: De Wondere Wereld van Weirde Weblogs, afl 19
+03 - 5 Jaar Blog.nl
+04 - Column: Een ander blogsysteem
+05 - Nieuwe redacteur stelt zich voor
+06 - Interview met Anna-Maria
+07 - Wordpress 3.0, the Jazz continuous
+
+0 - Intro
+
+Goed, we gaan een maandje op vakantie. We laten één editie, die van augustus, aan ons voorbij gaan. Dus hebben we extra ons best gedaan om deze maandelijkse aflevering van a:b zoveel mogelijk variatie mee te geven. Naast de gewoonlijke column van Arnoud en WWWW houdt het in dat we een interview met @Puur te bieden hebben, geven we een jarige familie Blog het woord, laten we onze nieuwe redactielid Katyo zichzelf voorstellen en wordt er ook nog eens uitgelegd hoe WordPress 3.0 werkt.
+
+Ja, een nieuw redactielid. Of eigenlijk twee. Die tweede introduceren we na de vakantie wel. Maar helaas hebben we ook afscheid moeten nemen van Esther, die het gewoon te druk kreeg met andere werkzaamheden. Thx, Esther. En iedereen een prettige zomer toegewenst.
+
+Altijd te bereiken op: post@aboutblank.nl
+
+Lees verder >>
+
+Ton
+
+
+
+1 - Header en wallpaper #92
+
+
+
+De zomerse header en wallpaper van deze maand is gemaakt door Ellen van de Sande. Download hier de wallpaper::
+
+1024x768px
+1280x1024px
+1440x900px
+
+Ellen van de Sande werkt al ruim 15 jaar als grafisch ontwerper in de corporate wereld. Daarnaast werkt ze aan kleinschalige autonome projecten; collages, texturen, allerhande boekjes, kaartjes, uitnodigingen etc. Maar vooral blogt ze dagelijks over (grafisch) ontwerpen, (vintage) boeken, (vintage) illustatie, bordspellen en alles wat haar verder inspireert. In de toekomst hoop ze meer tijd te kunnen investeren in het bedenken en uitwerken van eigen autonome grafische projecten.
+
+Je kan Ellen van de Sande ook volgen op Twitter.
+
+Lees verder >>
+
+Aukje
+
+
+
+2 - WWWW óf: De Wondere Wereld van Weirde Weblogs, afl 19
+
+Laat ik maar eerlijk zijn: ik vind 't heerlijk om mensen te corrigeren.
+Ik ben er echter in de loop der jaren achter gekomen dat de gecorrigeerde dat niet altijd even goed op prijs weet te stellen, dus houd ik 't daarom tegenwoordig maar vaak bij het voor mezelf constateren van de fout en laat de schuldige in zijn eigen sop gaar koken.
+Maar... ik had natuurlijk ook gewoon een blog kunnen vullen met de misstanden der mensheid op het specifieke vlak van taaluitingen. Dan vindt iedereen het opeens wel leuk en strekt het soms zelfs iemand tot eer om op een dergelijk blog terecht te komen.
+
+Lees verder >>
+
+Ton
+
+
+
+3 - 5 jaar Blog.nl
+
+Bloggers houden van schrijven. En houden van aandacht. De zin 'als je niet gelezen wilt worden kun je net zo goed in een dagboek schrijven' is onder bloggers veel gehoord. Goede bloggers kunnen goed en enthousiast schrijven, en goede en enthousiaste schrijvers krijgen lezers.
+
+Blog.nl bestaat dit jaar 5 jaar. In het persbericht staat te lezen dat Blog.nl '3,5 miljoen bezoekers per maand ontvangt'. Een heel indrukwekkend aantal, en ook zeker iets om een feestje voor te mogen vieren.
+
+Toen wij van de redactie een van de oprichters van Blog.nl probeerden wat vragen te stellen verwachtten we uiteraard heel veel hiervan. Helaas doen de antwoorden vermoeden dat de oprichters ook daadwerkelijk alleen oprichters zijn... en geen bloggers. 'Schrijf uitdagend en met passie', reageert Ben Blog, maar laat dit vervolgens zelf niet zien in de antwoorden die bijna in telegramstijl lijken te zijn geschreven.
+
+Niettemin hieronder te lezen. Misschien raakt iemand geïnspireerd Blog.nl aan te vullen met wat passie en uitdaging. Vanuit de redactie wensen wij Blog.nl succes met de komende 5 jaar!
+
+Lees verder >>
+
+Roos
+
+
+
+4 - Column: Een ander blogsysteem
+
+Enkele maanden geleden stapte ik met mijn weblog over naar een ander blogsysteem. Zoiets is toch een ingrijpende beslissing in iemands blogleven, zeker als je al vele jaren bezig bent.
+
+Acht jaar lang heb ik tot mijn volle tevredenheid Nucleus gebruikt. Maar de laatste paar jaar staat de ontwikkeling van dit CMS toch een beetje stil. Daarom besloot ik PivotX te gaan gebruiken. Dat systeem leek mij beter bij de tijd. Het heeft een betere (wysiwyg) editor, de templates zijn eenvoudiger aan te passen en het is goed toegesneden op het invoegen van beeldmateriaal.
+
+Lees verder >>
+
+Ton
+
+
+
+5 - Nieuwe redacteur stelt zich voor
+
+Ik schreef altijd al. In boekjes. Wist niet zo goed wat ermee te doen, maar wist wel dat ik het wilde bewaren. Die zinnen, gedachtes, rare uitspraken, verwonderingen, overpeinzingen, bijzondere invallen.
+
+Op een dag raakte ik met iemand aan de praat die een weblog had. De wereld van webloggen kende ik niet echt, maar het trok mijn aandacht. Dat wilde ik ook! Een ruimte op internet waar ik alles kon delen met anderen en mijn schrijfsels verder kwamen dan de boekjes die alleen ik bekeek.
+
+Dus ik begon. In september 2004. Met www.katyo.net Bijna mijn eigen naam, maar net iets anders.
+
+Ik begon te schrijven. Kreeg bezoekers. Er kwamen reacties. Iemand bood aan de lay-out voor mij te veranderen. Ik dook in de wereld van andere webloggers. Begon ze te kennen. En zij mij. Ik begon mijn weg op internet te vinden. Ik kreeg vragen door stukjes bij anderen en reageerde erop. Stelde soms vragen via de mail.
+
+Mijn virtuele vriendenkring groeide.
+Ik zag anderen ook worstelen met banen en zoeken wat ze wilden doen. Ik groeide in het leven en op internet groeide ik mee. Terugbladerend in mijn blogarchief viel het me op dat twijfels over de baan die ik (niet) had en het zoeken naar wat ik dan wel wilde, heel vaak terugkwamen.
+
+Ik zag anderen leven. En groeien. Ik vond en zag overal inspiratie.
+
+Aangevuld door kennis. Ik hoorde over LinkedIn. En twitter. Mede dankzij mijn virtuele vrienden vond ik daar mijn weg. Ik deelde. En vroeg. En ontdekte steeds meer. Voortal twitter bleek een bron van kennen en ideeënuitwisseling. Delen en verbinden ging steeds sneller. En ineens begon ik virtuele mensen ook in het echt te zien. Bleken er allemaal raakvlakken en samenwerkmogelijkheden. Er ging een wereld voor me open.
+
+Eind vorig jaar begon het idee om zelfstandige te worden dan ook steeds meer vorm te krijgen. Een blog en een naam had ik al. Dus leek het me niet meer dan logisch om mijn blog te veranderen in mijn bedrijfssite. Er kwam een nieuwe lay-out, met onder andere ruimte voor mijn portfolio. Sinds begin dit jaar ben ik bezig als zelfstandige op het gebied van produceren/organiseren en teksten schrijven/redigeren op gebied van kunst&cultuur, mens en maatschappij. En mede dankzij mijn blog, mijn LinkedIn en mijn twitter is mijn eigen onderneming tot stand gekomen. Op deze manier heb ik zo’n groot netwerk opgebouwd. En op deze manier hoop ik mijn onderneming uit te breiden en levend te houden.
+
+En mede dankzij al deze dingen, ben ik ook als redacteur bij about:blank terechtgekomen. Omdat de anderen konden zien wat ik allemaal deed op internet, en daarbuiten.
+
+Lees verder >>
+
+Katja
+
+
+
+6 - Interview met Anna-Maria
+
+Anna-Maria heeft gelijk. Dat is tenminste de titel van haar weblog. Dat zou kunnen wijzen op iemand die geen tegenspraak duldt, maar daarvan is me bij het vraaggesprek niets gebleken. Het is dus denkbaar dat ze inderdaad gelijk heeft. En dat past wel in mijn overtuiging dat iedereen zijn (of zelfs haar) eigen gelijk heeft.
+
+Anna-Maria twittert dat het een aard heeft en doet dan net of ze @puur heet. Dat is ook al weer niet zo vreemd, want dat verwijst naar de naam van haar onderneming, die voettochten door Amsterdam organiseert.
+
+Anna-Maria is zo leuk, enthousiast en praatgraag dat het interview ruim drie kwartier heeft geduurd. Ik heb er een minuut of tien van gemaakt, maar die mag je dan ook echt niet missen. Nou ja, dat klinkt dan weer zo dwingend, laat ik het zo zeggen: het is best leuk om te zien. Denk ik.
+
+Lees verder >>
+
+Menno
+
+
+
+7 - WordPress 3.0, the Jazz continuous
+
+Thelonious Monk is niet alleen een fameus Jazz-muzikant, maar ook de naamgever van de laatste versie van WordPress. De link met deze muziekstroming is wat mij betreft niet alleen terug te vinden in de benaming, maar ook in de beleving die je als gebruiker krijgt. Onverwachte wendingen naaste vaste strakke patronen maken het geheel een ervaring die je elke keer weer doet verrassen. Iets wat mij als liefhebber van muziek en WordPress erg aanspreekt.
+
+Lees verder >>
+
+Bakkel
+
+
+
+about:blank wordt gemaakt door:
+
+Arnoud de Jong | @verbaljam
+Aukje | @faukje
+Bakkel | @bakkel
+Coen | @fileunder
+Edwin | @ngedwin
+Irene | @irenevanputten
+Katja | @katyo
+Menno Nicolai | @mennonicolai
+Michiel | @badlog
+Mike | @madbello
+Remco | @sikkema
+Roos | @soyrosa
+Rutger | @rutger_
+Theo
+Ton | @zijperspace
+
+About:blank wordt prima gehost door http://www.pivothosting.net

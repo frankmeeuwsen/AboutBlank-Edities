@@ -1,0 +1,154 @@
+http://www.aboutblank.nl
+Een maandelijkse e-zine door webloggers, voor webloggers!
+
+Jaargang 7 - Editie 81 - Augustus 2009
+
+Inhoud:
+
+00 - Intro
+01 - Header en wallpaper #81
+02 - Kijkje in de keuken: EenVandaag.nl
+03 - Event: Kings of Code 2009
+04 - WWWW óf: De Wondere Wereld van Weirde Weblogs, afl 10
+05 - Column: Bij gebrek aan fut
+06 - Beardfish - Destined Solitaire
+07 - Foto's van weblogmeetings gezocht
+08 - FriendFeed, deel 2: Tips & Tricks
+
+0 - Intro
+
+Het is zomer. Op Twitter wordt geklaagd over dalende bezoekersstatistieken en weinig reacties. Ik heb er zelf ook last van. Of last... Ik merk het zeker. Druk met afstuderen en druk met het vinden van een nieuwe baan is de tijd om te bloggen toch wel een beetje verdwenen. Heeft u vast ook wel eens last van.
+
+Toch blijft webloggen trekken. Ik blijf het doen. Misschien iets meer micro dan macro, maar toch. Ook About:blank gaat stug door. Al jaren en jaren zijn wij hét weblogmagazine van Nederland. Voor en door bloggers. En we zijn er trots op, dat we dat al zo lang doen.
+
+Maar helemaal hetzelfde blijven willen we niet. Een nieuwe frisse lay-out staat voor u klaar! Misschien dat u als e-mail- of RSS-abonnee het de moeite waard vindt om de nieuwe lay-out te bekijken. Gebouwd om het prachtige CMS PivotX. Gebouwd door mij. Inderdaad, tussen het afstuderen door. Ach, ik vind het leuk om te doen. Hopelijk vindt u het fijn om naar te kijken.
+
+[Oh, en de bijdrages? Arnoud heeft voor ons een mooie column geschreven, we hebben een nieuwe Header en Wallpaper gekregen dankzij Aukje (wist u al dat ze zwanger is?), Ton heeft deel 2 geschreven over het door hem bejubelde FriendFeed, er is muziek, er is een oproep voor foto's van weblogmeetings, er zijn weer Weirde Weblogs gesignaleerd, reporter Angela is naar Kings of Code geweest, en last but not least: Eenvandaag.nl geeft een kijkje in hun keuken!]
+
+Altijd te bereiken op: post@aboutblank.nl
+
+Lees verder >>
+
+
+1 - Header en wallpaper #81
+
+
+
+De header & wallpaper van deze maand zijn gemaakt door Maarten Janssens. Download hier de wallpaper:
+
+1024x768px
+1280x1024px
+1440x900px
+
+Maarten Janssens (1972) tekende o.a. voor de Nederlandse Donald Duck, werkte mee aan de populaire animatieserie Kika&Bob en horrortijdschrift Bloeddorst. Daarnaast ontwikkelde hij een liefde voor 'paper kits': driedimensionale papieren ontwerpen die voor iedereen gratis zijn te downloaden via zijn website 3eyedbear.com.
+
+Bij het online gaan van deze editie van about:blank, opent SUBWALK in Arnhem de expositie 'URBAN PAPER: book launch paper toys art show'. Naast de Europese release van het boek URBAN PAPER start een expositie met de nieuwste werken van diverse nationale en internationale designers. De paperkits van Maarten Janssens zijn hier de gehele maand augustus live te bewonderen.
+
+Lees verder >>
+
+lijn
+
+2 - Kijkje in de keuken: EenVandaag.nl
+
+Deel 3 van kijkje in de keuken gaat over EénVandaag. Deze actualiteitenrubriek op Nederland 1 is een dagelijkse samenwerking van de Tros en AVRO en heeft recentelijk een nieuwe website laten ontwikkelen door de mensen van FreshHeads. Wat opvalt is de weblogstijl waarmee deze website is ontwikkeld en de toevoegingen van social media als YouTube, Flickr en Picasa. Met veel enthousiasme hebben ze dan ook meegewerkt aan dit kijkje in de keuken, en met dezelfde instelling maken wij daar natuurlijk graag gebruik van.
+
+In het voorjaar van 2008 schreven de TROS en AVRO een pitch uit voor de nieuwe website van EénVandaag. Freshheads werd op de valreep gevraagd om hier aan deel te nemen. We hadden toen net het redesign voor DutchCowboys.nl succesvol opgeleverd. Wij waren uiteraard dolenthousiast toen bleek dat we de pitch hadden gewonnen. Dit was een uitgelezen kans om te laten zien wat wij als relatief klein bureau in huis hebben.
+
+EénVandaag - voorheen TweeVandaag - is de dagelijkse actualiteitenrubriek op Nederland 1 en wordt geproduceerd door de TROS en de AVRO. Het actualiteitenprogramma heeft op 2 juli de vierde versie van zijn website gelanceerd. De eerste versie was een flash website. Daarna volgden twee professionelere versies die meer waren gericht op nieuwscontent.
+
+Lees verder >>
+
+
+
+3 - Event: Kings of Code 2009
+
+Stel, je voelt jezelf een nerd vanwege overmatige interesse in programmeertalen die thans rulen op het wereldwijde web. Dan ben je natuurlijk aan het juiste adres op een web-development conference dat op 29-30 juni jl. werd gehouden in het Tuschinski Theater te Amsterdam. Geweldige locatie. Kosten noch moeite gespaard.
+
+Alwaar buiten, want klamme warme dag, een menigte je staat op te wachten, want zij roken. Hoe kan het ook anders? Bij binnenkomst en aanmelding ontvang je een heuse sleutelhanger met daaraan je kaartje met naam en representatief ook de naam van de organisatie daaronder vermeld door wie je wordt uitgezonden, met daarin handig verweven het programma van de dag. En tevens vier consumptiemuntjes ten behoeve van de aanwezige bar. Airconditioning en WiFi gelukkig allround aanwezig.
+
+Terwijl de dag met rasse schreden voorbijgaat, je oren rood worden van het klapperen. Termen als Cappuccino, HTML5, Javascript optimalisatie, Social Coding with GIT, Python web dev framework Django dat werkt op Google App Engine, Digg of all things je om de oren geslagen worden. Hoe sociaal het web wel niet wordt en hoe je dat in je eigen voordeel kunt uitbaten. Zo werden de enthousiast aanwezige webdevelopers aangespoord om creatief te blijven denken in het streven naar nog een betere webwereld. Terwijl de conferentie geheel in het Amerikaans-Engels werd gesproken, was er ruimte voor veel humor tussen de vele presentaties door. Het valt u waarschijnlijk op dat ik inhoudelijk niet veel kan vertellen over de diverse onderwerpen die belicht werden, daarvoor werd het mij inhoudelijk te technisch en ingewikkeld. Wellicht is het daarom handig -voor u als lezer- de door de organisatoren verstrekte presentatiesheets door te nemen.
+
+Lees verder >>
+
+
+
+4 - WWWW óf: De Wondere Wereld van Weirde Weblogs, afl 10
+
+We hebben ons rot gelachen, zoals dat vroeger heette, om de snorren die het jeugdblaadje ons in alle standen en maten voorgeschoteld had. Niets zo lachwekkend als het menselijk lichaam, was toen nog de gouden regel van het internetloze tijdperk. Later hebben de kat en zijn kaasburgers die schijnbare hegemonie van de humor overgenomen. Met alle gevolgen van dien. Laten wij daarom eens lekker oldskool genieten van een stelletje weirdo’s die tegendraads weblogs volproppen met de schier onbegrensde mogelijkheden die het menselijk omhulsel biedt een krul om de lippen te doen veroorzaken.
+
+Lees verder >>
+
+
+
+
+5 - Column: Bij gebrek aan fut
+
+Soms moet je het brein even laten freewheelen, omdat je stomweg de fut niet hebt om er werkelijk iets productiefs mee te doen. Gewoon teveel andere zaken aan 't hoofd gehad. De één gaat in zo'n geval gamen, de ander een berg wasgoed wegstrijken en de derde gaat z'n boeken- of dvd-verzameling catalogiseren. Kortom, het kan heilzaam zijn om iets betrekkelijk nutteloos te doen.
+
+Lees verder >>
+
+
+
+6 - Beardfish - Destined Solitaire
+
+Het schijnt dat het door de problemen bij Steamhammer/SPV ook rommelt op de burelen van Inside Out. Spock's Beard probeert haar nieuwe cd via voorinschrijving te financieren, Pain of Salvation heeft het over vertraging bij de release en annuleerde een Amerikaanse tournee die ze samen met Dream Theater en Beardfish zouden doen. Dat klinkt als zwaar weer in mijn ogen. Het is tussen al die doemberichten dan ook prettig om te constateren dat er ondertussen toch gewoon keigoede platen verschijnen op hun huislabel. Beardfish heeft namelijk met hun nieuwe cd Destined Solitaire dan wel een album afgeleverd dat een hele lange zit is met zijn dik vijf kwartier, het zijn wel vijfenzeventig zinderende minuten voor wie houdt van classic symfo met een knipoog.
+
+Lees verder >>
+
+
+
+7 - Foto's van weblogmeetings gezocht
+
+Eén van de tradities sinds het begin van de weblogs in Nederland is de weblogmeeting. Al sinds 2000 wordt er bijna elk jaar wel ergens een weblogmeeting gehouden. De laatste jaren is het overgenomen door Twitterborrels, maar de weblogmeetings uit het verleden zijn legendarisch en dat willen we vieren! Ik ben bezig om een boek samen te stellen over de geschiedenis van de Nederlandse weblogs. Blogs zijn tien jaar oud in Nederland en dat jubileum moeten we vastleggen op papier en online. Naast veel fotomateriaal van meetings zal het boek ook interviews met bloggers van toen en nu bevatten, nieuws uit die tijd en veel, heel veel illustratiemateriaal van andere weblogs en de Dutch Bloggies.
+
+Een kenmerk van de meetings was de overdaad aan electronische apparatuur. Had je geen camera of later mobiel met camera bij je, dan moest je eenzaam in een hoekje zitten. Er zijn tijdens diverse weblogmeetings heel veel foto's gemaakt. En die foto's, die wil ik graag verzamelen om te gebruiken in het boek. Een speurtocht over het web laat al snel zien dat veel oudere fotogallerijen en blogposts met foto's verloren zijn gegaan door gestopte of verhuisde weblogs.
+
+Daarom doe ik nu een oproep aan alle lezers van About:blank: Ga op zoek in je digitale schoenendoos en verzamel alle foto's van Nederlandse of Vlaamse weblogmeetings die je hebt. Deze foto's kun je uploaden in de speciale Flickr-groep "Weblogmeeting" op http://www.flickr.com/groups/59895736@N00/pool/.
+
+Ik wil je verzoeken om met het volgende rekening te houden:
+- Upload alleen foto's die je ook in een boek terug zou willen zien, ofwel, die je ook aan je moeder zou laten zien.
+- Zet in de omschrijving het jaartal en de plaats van de weblogmeeting.
+- Als het mogelijk is, beschrijf ook wie er op de foto staat. Sommigen herkennen we wel, maar lang niet iedereen.
+- Zorg dat je eigen accountinformatie in orde is zodat we in het boek op de juiste manier de bronvermelding plaatsen.
+- Geef je foto's een Creative Commons licentie bij het uploaden. Bij voorkeur een CC BY licentie. Zie http://creativecommons.org/licenses/by/3.0/nl/ voor meer informatie. Doe je dat niet, dan zal ik indien nodig individueel contact opnemen om toestemming te vragen.
+
+Heb je geen toegang tot Flickr of wil je het liever op een andere manier aanbieden, mail me dan op frank@incredibleadventure.nl en we zoeken een oplossing.
+
+Bonusvraag: Heb je ook videomateriaal van weblogmeetings? Neem dan ook contact met me op, aangezien we hier ook plannen mee hebben!
+
+Het boek zal in het voorjaar van 2010 verschijnen en natuurlijk zal op about:blank geregeld nieuws over de voortgang verschijnen.
+
+Alvast bedankt voor jullie medewerking!
+
+Lees verder >>
+
+
+
+8 - FriendFeed, deel 2: Tips & Tricks
+
+De basisprincipes van FriendFeed hebben we zo’n beetje wel in het eerste deel van deze introductie besproken. In principe moet iedereen naar aanleiding daarvan met de service aan de slag kunnen gaan. Sterker nog, zo gauw men een profiel heeft aangemaakt en daarbij zijn eigen internetaccounts bij Twitter, YouTube, Flickr, enz. heeft ingevoerd hoeft er eigenlijk niets meer gedaan te worden. Het loopt vanzelf wel. En mensen die jou volgen komen vanzelf tegen wat je zoal aan het doen bent, internetwijs.
+
+Lees verder >>
+
+
+
+about:blank wordt gemaakt door:
+
+Angela | @angelicavenues
+Arnoud de Jong | @verbaljam
+Aukje | @faukje
+Bakkel | @bakkel
+File Under | @fileunder
+Kaat | @kaatster
+Kaj | @kajrietberg
+Les Canards | @lescanards
+Lorenz | @tweepuntnul
+Menno Nicolai | @mennonicolai
+Michiel | @badlog
+Mike | @madbello
+Robert | @robtheblob
+Roos | @soyrosa
+Rutger | @rutger_
+Ton | @zijperspace
+
+About:blank wordt prima gehost door http://www.pivothosting.net
